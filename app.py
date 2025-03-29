@@ -18,7 +18,7 @@ prizes = [
     {"name": "❌ 免寫訂正卷卡", "weight": 1, "image": "https://i.imgur.com/SXJ99Ab.png"}
 ]
 
-st.title("🎁 雅真老師的幸運轉盤抽獎系統")
+st.title("🎁 詠芳老師的幸運轉盤抽獎系統")
 st.markdown("每累積 10 點就能抽一次，快來看看你的幸運吧！")
 
 # 播放音效
